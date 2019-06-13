@@ -3,3 +3,6 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I'm making and committing a change. 
 
 Let's Go Blues!!
+
+
+We doin' another edit. Get those conflicts!!
